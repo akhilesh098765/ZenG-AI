@@ -1,0 +1,6 @@
+{
+  "name": "ZenG AI - Advanced All-in-One AI Assistant Platform",
+  "description": "ZenG AI is a next-generation multimodal AI workspace featuring real-time reasoning, code generation, scholarly research grounding, document intelligence, and multi-model workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
